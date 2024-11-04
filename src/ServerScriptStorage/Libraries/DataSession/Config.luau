@@ -1,0 +1,13 @@
+return {
+    DEBUG_MODE = true;
+
+    STUDIO_SAVE = true;
+    GAME_SAVE = true;
+
+    SESSION_LOCK_EXPIRE = 60;
+
+    LOAD_RETRY_TIME = 1;
+    LOAD_TRY_AMOUNT = 10;
+
+    CROSS_SERVER_RECOVERY_TIMEOUT = 5;
+}
